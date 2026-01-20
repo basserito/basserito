@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 こんにちは, I'm Basant (basserito) (｡•́‿•̀｡)🌸
+# 🌸 I'm Basant🌸
 ### CS grad • MSc (in progress) in ML/DS/AI • building practical, high-quality software ✨
 
 🌿 Helsinki, Finland · 📫 basant.khattab@aalto.fi  
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌸 Learning projects (｡•̀ᴗ•́｡)✨
+## 🌸 Learning projects✨
 A few small projects & analyses from my CS + ML journey 🌱
 
 - ⚽ **[ML: Predicting Football Game Wins](https://github.com/basserito/ML_predicting_football_game_wins)** — exploring match outcome prediction with ML  
@@ -66,6 +66,6 @@ A few small projects & analyses from my CS + ML journey 🌱
 
 <div align="center">
 
-### ✨ thanks for stopping by (づ｡◕‿‿◕｡)づ 🌸
+### ✨ thanks for stopping by🌸
 
 </div>
